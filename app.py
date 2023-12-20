@@ -12,9 +12,9 @@ class_mapping = {'cardboard': 0, 'glass': 1, 'metal': 2, 'organic': 3, 'paper': 
 
 # Database connection parameters
 db_params = {
-    "host": "34.101.62.255",
-    "user": "root",
-    "password": "root",
+    "host": "",
+    "user": "",
+    "password": "",
     "database": "ecodo"
 }
 
